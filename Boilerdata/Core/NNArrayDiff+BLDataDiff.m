@@ -7,6 +7,7 @@
 //
 
 #import "NNArrayDiff+BLDataDiff.h"
+#import "NNArrayDiffChange+BLDataDiffChange.h"
 
 @implementation NNArrayDiff (BLDataDiff)
 

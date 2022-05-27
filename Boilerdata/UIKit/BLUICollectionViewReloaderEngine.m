@@ -7,7 +7,7 @@
 //
 
 #import "BLUICollectionViewReloaderEngine.h"
-#import <UIKitWorkarounds/NNCollectionViewReloader.h>
+@import ArrayDiff;
 
 @interface BLUICollectionViewReloaderEngine ()
 

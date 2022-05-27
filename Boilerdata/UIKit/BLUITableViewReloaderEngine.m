@@ -8,7 +8,7 @@
 
 #import "BLUITableViewReloaderEngine.h"
 #import "BLUITableViewAnimations.h"
-#import <UIKitWorkarounds/NNTableViewReloader.h>
+@import ArrayDiff;
 
 @interface BLUITableViewReloaderEngine ()
 
