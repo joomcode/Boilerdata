@@ -1,2 +1,1 @@
-github "https://github.com/joomcode/ArrayDiff" "feature/carthage"
-github "https://github.com/joomcode/UIKitWorkarounds" "feature/carthage"
+github "https://github.com/joomcode/ArrayDiff" "feature/move-code-from-uikitworkarounds"

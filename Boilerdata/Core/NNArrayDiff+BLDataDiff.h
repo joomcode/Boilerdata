@@ -6,7 +6,7 @@
 //  Copyright © 2016 Pixty. All rights reserved.
 //
 
-@import ArrayDiff;
+@import ArrayDiff.NNArrayDiff;
 #import "BLDataDiff.h"
 
 @interface NNArrayDiff (BLDataDiff) <BLDataDiff>
